@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<mata charser="UTF-8"/>
+<title>RedTeam</title>
+<link rel="stylesheet"
+    href=""/>
+</head>
+<body>
+ this members business
+<h1>table</h1>
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>Group</th>
+            <th>Avatar</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Character</th>
+            <th>profile</th>
+            </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="2">ninja</td>
+            <td><img src="../RedTeam.PNG"  alt="" style="width:40px;height:40px;"></td>
+            <td><p>mohamed</p><p>osama</p></td>
+            <td><p>jpoajf@gmail.com</p><hr><p>fjdoafoj@gmail.com</p></td>
+            <td>&copy;</td>
+            <td><a href="google.com"target="_blank" title="go to google"> profile </a></td>
+
+        </tr>
+            <td><img src="../RedTeam.PNG" alt="" style="width: 40px;height: 40px;"></td>
+            <td><p>shady</p><p>nabil</p></td>
+            <td>jodajpofj@gmail.com</td>
+            <td>&copy;</td>
+            <td><a href="facebook.com" target="_blank" title="go to facebook">profile</a></td>
+
+        <tr>
+            <td>Monsters</td>
+            <td><img src="../RedTeam.PNG"    alt="" style="height: 40px;width: 40px;" ></td>
+            <td><p>mohamed</p><p>Ibrahim</p></td>
+            <td>apkdfoas@gmail.com</td>
+            <td>&copy;</td>
+            <td><a href="youtube" target="_blank" title="go to profile">profile</a></td>
+
+            <tr>
+                <td colspan="5">Total members</td>
+                <td>3</td>
+            </tr>
+        </tr>
+        </tr>
+    </tbody>
+</table>
+<hr>
+thanks "zero web" and Thanks "mazen_gad"
+</body>
+</html>
